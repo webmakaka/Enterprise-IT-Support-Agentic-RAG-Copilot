@@ -4,7 +4,7 @@ An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-
 
 <br/>
 
-**YouTube:**
+**YouTube:**  
 https://www.youtube.com/watch?v=h9rNmHeLgZE
 
 <br/>
