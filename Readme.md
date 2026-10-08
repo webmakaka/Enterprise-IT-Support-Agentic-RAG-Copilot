@@ -1,6 +1,9 @@
-# [YouTube][DSwithBappy] Enterprise IT Support Agentic RAG Copilot [ENG, 2026]
+# [YouTube][Bappy Ahmed] Enterprise IT Support Agentic RAG Copilot [ENG, 2026]
 
 An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Groq, Tavily, HTML, CSS, and JavaScript**.
+
+
+<img src="https://github.com/webmakaka/Agentic-AI-Complete-Course-for-Beginners/raw/main/img/cover.png" alt="Agentic AI – Complete Course for Beginners" height="256px" align="right">
 
 <br/>
 
