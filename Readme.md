@@ -1,6 +1,18 @@
-# Enterprise IT Support Agentic RAG Copilot
+# [YouTube][DSwithBappy] Enterprise IT Support Agentic RAG Copilot [ENG, 2026]
 
 An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Groq, Tavily, HTML, CSS, and JavaScript**.
+
+<br/>
+
+**YouTube:**
+https://www.youtube.com/watch?v=h9rNmHeLgZE
+
+<br/>
+
+**original src:**  
+https://github.com/entbappy/Enterprise-IT-Support-Agentic-RAG-Copilot
+
+<br/>
 
 ---
 
